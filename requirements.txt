@@ -1,0 +1,9 @@
+spacy == 3.7.4
+Flask
+scikit-learn
+docx2txt
+PyMuPDF
+pdfkit
+reportlab
+gunicorn==20.1.0
+SQLite3
